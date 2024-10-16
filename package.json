@@ -1,6 +1,7 @@
 {
   "name": "null",
   "version": "1.0.0",
+  "type": "module",
   "description": "backend practise javascript",
   "main": "index.js",
   "scripts": {
